@@ -1,89 +1,85 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Grace Wanstrom's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Grace Wanstrom
+Accountant, Mathematician, BYUI Graduate.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="gwanstrom7123@gmail.com">gwanstrom7123@gmail.com</a>
+| <a href="https://www.linkedin.com/in/gracewanstrom/">My linkedin page</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+#### Brigham Young University - Idaho
+__July 2024__
+_Overall GPA: 3.62/4.00_
+Bachelor of Science in Accounting
+Cluster in Data Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+ - Relevant Courses: Income Taxation l/ll, Audit, Advanced Accounting, Intermediate Financial Accounting l/ll, 
+Advanced Spreadsheets 
 
-- Sizar
+#### Everett Community College
+__June 2020__
+Associate of Arts and Science
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+ - Completed the Running Start program to graduate High School with Associates Degree
+ - Graduated from the Ocean Research College Academy program which included challenging advanced course work
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Experience
 
-### Journals
+#### Wipfli LLP | Tax Intern
+__Jan. 2024 - Apr. 2024__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+ - Prepared tax returns for individuals, trusts, partnerships, s-corporations, and c-corporations using advanced tax 
+systems 
+ - Trained through the firms training program in CaseWare, CCH Axcess Tax, GoFileRoom, TaxCaddy, Asset Keeper and 
+other accounting software
+ - Communicated daily with firm associates and clients nationwide to collect relevant information and discuss tax 
+principles 
 
-`1669`
-Lectiones opticæ.
+#### Brigham Young University - Idaho | Accounting Tutor
+__Sept. 2022 - Dec. 2023__
 
-etc. etc. etc.
+ - Tutored students struggling in accounting classes ranging from Survey of Accounting to Intermediate Financial 
+Accounting 
+ - Helped students not in the accounting major understand financial, managerial, and tax accounting in a one-on-one 
+setting 
+ - Coordinated with students and their schedules in order to set up and conduct one-on-one tutoring sessions that 
+would best benefit the student 
 
-### Patents
+#### Brigham Young University - Idaho | Math Study Center Assistant
+__Jan. 2023 - Dec. 2023__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+ - Managed seventy plus math tutors to coordinate math lab shifts, one-on-one sessions, and meetings using Google 
+systems 
+ - Trained eighteen new math tutors to confidently work with struggling students in math lab and one-on-one settings
+  - Worked closely with and directly under Math Study Center Directors to improve processes within the math lab 
+
+#### Alden Holm & Co. | Tax Intern
+__Jan. 2022 - Apr. 2022__
+
+ - Organized and reconciled documents from clients into Excel using Windows software
+ - Entered relevant tax information into the Drake system for fifty plus individual and schedule C clients 
+ - Worked directly with the firms CPA’s to understand and accurately enter tax information 
 
 
-## Occupation
+## Additional Skills
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+ - Proficient in: Microsoft Excel, VBA, Python, CaseWare, CCH Axcess Tax, GoFileRoom, TaxCaddy, Drake 
+ - Attention to Detail 
+ - Problem Solving 
+ - Written and Verbal Communication 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2024 -->
